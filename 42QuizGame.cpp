@@ -42,7 +42,7 @@ int main()
 
     //results
     std::cout << "*****************************\n";
-    std::cout << "********* RESULTS\n *********\n";
+    std::cout << "********** RESULTS **********\n";
     std::cout << "*****************************\n";
     std::cout << "Correct guesses: " << score << '\n';
     std::cout << "# of questions: " << size << '\n';
